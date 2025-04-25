@@ -1,0 +1,2 @@
+# Mathematical-Modelin-Practice--Leverage-of-FX-rates-on-grain-prices
+Measuring the leverage of FX rates and financial, econometrical indices onto the grain prices based on the major grain importer countries
